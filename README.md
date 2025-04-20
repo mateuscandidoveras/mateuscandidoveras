@@ -3,6 +3,8 @@
 
 Me chamo Mateus Candido Veras, tenho 22 anos e sou natural de Pernambuco. Concluí o ensino médio na escola Prof.ª Carlota Breckenfeld, No fundalmental fui medalhista da OBMEP e fiz um curso de iniciação cientifica pelo (IMPA). Atualmente, estou cursando Sistemas de Informação na (UFRPE).
 
+---
+
 ## 🛠 **Tecnologias e Habilidades**  
 
 ### **Linguagens & Frameworks**  
@@ -23,7 +25,7 @@ Me chamo Mateus Candido Veras, tenho 22 anos e sou natural de Pernambuco. Conclu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" />
 </div>  
 
-
+---
 
 ## 📊 **Estatísticas do GitHub**  
 
