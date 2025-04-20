@@ -4,8 +4,6 @@
 
   Me chamo Mateus Candido Veras, tenho 22 anos e sou natural de Pernambuco. Concluí o ensino médio na escola Prof.ª Carlota Breckenfeld, No fundalmental fui medalhista da OBMEP e fiz um curso de iniciação cientifica pelo (IMPA). Atualmente, estou cursando Sistemas de Informação na (UFRPE).
 
-
-    </a> 
     <a href="https://github.com/mateuscandidoveras?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
