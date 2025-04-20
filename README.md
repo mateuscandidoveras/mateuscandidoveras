@@ -23,7 +23,7 @@ Me chamo Mateus Candido Veras, tenho 22 anos e sou natural de Pernambuco. Conclu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" />
 </div>  
 
----
+
 
 ## 📊 **Estatísticas do GitHub**  
 
@@ -50,7 +50,7 @@ Me chamo Mateus Candido Veras, tenho 22 anos e sou natural de Pernambuco. Conclu
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
----  
+
 
 
 💡 **Vamos conversar?** Me chame no WhatsApp ou e-mail!  
