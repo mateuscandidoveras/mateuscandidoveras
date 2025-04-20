@@ -1,14 +1,7 @@
 # **Mateus Veras**  
 **`Desenvolvedor Back-End`**  
 
-👋 Olá! Sou **Mateus Veras**, um desenvolvedor back-end apaixonado por tecnologia, com formação em Sistemas de Informação na UFRPE e experiência em projetos desafiadores.  
-
-🎓 **Destaques:**  
-- Medalhista da OBMEP  
-- Curso de iniciação científica pelo IMPA  
-- Habilidades em JavaScript, TypeScript, PHP, Laravel e mais  
-
----
+Me chamo Mateus Candido Veras, tenho 22 anos e sou natural de Pernambuco. Concluí o ensino médio na escola Prof.ª Carlota Breckenfeld, No fundalmental fui medalhista da OBMEP e fiz um curso de iniciação cientifica pelo (IMPA). Atualmente, estou cursando Sistemas de Informação na (UFRPE).
 
 ## 🛠 **Tecnologias e Habilidades**  
 
@@ -50,19 +43,14 @@
   <a href="https://wa.me/5587999163042" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://discord.gg/@mateuscandidoveras" target="_blank">
+  <a href="https://discord.com/users/1300847747980591154" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:mateusverascandido@gmail.com" target="_blank">
+  <a href="mailto:mateusverascandido@gmail.com?subject=Contato%20via%20GitHub">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>  
-
+</div>
 ---  
 
-### ✨ **Destaques**  
-✔ **Código limpo e bem documentado**  
-✔ **Experiência em desenvolvimento back-end**  
-✔ **Aberto a colaborações e oportunidades**  
 
 💡 **Vamos conversar?** Me chame no WhatsApp ou e-mail!  
