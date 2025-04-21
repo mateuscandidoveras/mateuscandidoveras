@@ -44,14 +44,7 @@ Me chamo Mateus Candido Veras, tenho 22 anos e sou natural de Pernambuco. Conclu
 
 ---
 
-## 📊 **Estatísticas do GitHub**  
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuscandidoveras&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscandidoveras&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" alt="Top Languages" />
-</div>  
-
----
 
 
 
