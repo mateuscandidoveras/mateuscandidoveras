@@ -44,13 +44,6 @@ Me chamo Mateus Candido Veras, tenho 22 anos e sou natural de Pernambuco. Conclu
 
 ---
 
-
-
-
-
 # Meu Progresso no GitHub
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-💡 **Vamos conversar?** Me chame no WhatsApp ou e-mail!  
-
