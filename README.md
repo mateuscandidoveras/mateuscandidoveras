@@ -22,8 +22,6 @@ Me chamo Mateus Candido Veras, tenho 22 anos e sou natural de Pernambuco. Conclu
   </a>
 </div>
 
-## 🛠 **Tecnologias e Habilidades**  
-
 ### **Linguagens & Frameworks**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" />
