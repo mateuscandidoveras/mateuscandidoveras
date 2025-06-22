@@ -4,14 +4,14 @@
 Hi there! I'm **Mateus Candido Veras**, 22 years old, born and raised in **Pernambuco, Brazil** 🇧🇷.  
 
 🎓 I graduated from *Carlota Breckenfeld High School* and earned a **bronze medal** in the Brazilian Math Olympiad (OBMEP).  
-📚 Thanks to OBMEP, I completed a **Scientific Initiation course at IMPA** (Instituto Nacional de Matemática Pura e Aplicada).  
-💻 I'm currently studying **Information Systems at UFRPE** and developing skills focused on backend development and automation.
+📚 I also completed a **Scientific Initiation course at IMPA** (National Institute for Pure and Applied Mathematics).  
+💻 Currently studying **Information Systems at UFRPE**, I’m passionate about problem-solving, algorithms, and back-end development.
 
 ---
 
-## 🌐 Social Media
+## 🌐 Connect with Me
 
-<div align="center">
+<p align="center">
   <a href="https://medium.com/@mateusverascandido" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
@@ -24,47 +24,47 @@ Hi there! I'm **Mateus Candido Veras**, 22 years old, born and raised in **Perna
   <a href="mailto:mateusverascandido@gmail.com?subject=Contact%20via%20GitHub" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
 ## 🗣️ Languages I Speak
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Portuguese-Brazil-009C3B?style=for-the-badge&logo=portugal&logoColor=white" />
-  <img src="https://img.shields.io/badge/English-Intermediate-007ACC?style=for-the-badge&logo=unitedkingdom&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Portuguese-Native-009C3B?style=for-the-badge&logo=portugal&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-Advanced-007ACC?style=for-the-badge&logo=unitedkingdom&logoColor=white" />
+</p>
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="50" />
-</div>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mateusverascandido&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎮 Take a Break – Play Snake Game 🐍
-
-> *This iframe only displays in browsers, not in GitHub directly.*
-
-<div align="center">
-  <iframe src="https://playsnake.org/" width="340" height="300" frameborder="0"></iframe>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mateuscandidoveras&show_icons=true&theme=radical&hide_border=true" alt="Mateus GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscandidoveras&theme=radical&hide_border=true" alt="Mateus GitHub Streak" />
+</p>
 
 ---
 
-## 📬 Feel free to reach out!  
-I'm always open to new opportunities, collaborations, or just tech talk.  
-Let's connect and build something awesome together! 🚀
+## 🐍 Snake Eating My Contributions!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mateuscandidoveras/mateuscandidoveras/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</p>
+
+---
+
+## 💬 Let's Talk!
+
+I'm open to new opportunities, freelance work, or just geeking out over code. Feel free to reach out! 🚀
