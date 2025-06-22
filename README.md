@@ -2,7 +2,7 @@
 ### 🚀 `Back-End Developer`  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-height:180px; object-fit: contain;" alt="Coding Gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-height:10px; object-fit: contain;" alt="Coding Gif"/>
 </p>
 
 
