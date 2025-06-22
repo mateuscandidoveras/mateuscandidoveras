@@ -2,7 +2,7 @@
 ### 🚀 `Back-End Developer`  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif"/>
+  <img src="https://media.giphy.com/media/xTiTncVep2khPGhKBa/giphy.gif" width="100%" alt="Wide Coding Gif"/>
 </p>
 
 Hi there! I'm **Mateus Candido Veras**, 22 years old, born and raised in **Pernambuco, Brazil** 🇧🇷.  
