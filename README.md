@@ -1,6 +1,10 @@
 # 👨‍💻 Mateus Veras  
 ### 🚀 `Back-End Developer`  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif"/>
+</p>
+
 Hi there! I'm **Mateus Candido Veras**, 22 years old, born and raised in **Pernambuco, Brazil** 🇧🇷.  
 
 🎓 I graduated from *Carlota Breckenfeld High School* and earned a **bronze medal** in the Brazilian Math Olympiad (OBMEP).  
@@ -53,16 +57,6 @@ Hi there! I'm **Mateus Candido Veras**, 22 years old, born and raised in **Perna
   <img src="https://github-readme-stats.vercel.app/api?username=mateuscandidoveras&show_icons=true&theme=radical&hide_border=true" alt="Mateus GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscandidoveras&theme=radical&hide_border=true" alt="Mateus GitHub Streak" />
-</p>
-
----
-<p align="center">
-  <img src="https://github.com/mrdoob/three.js/raw/dev/examples/textures/cube/pisa/nx.jpg" width="700" alt="Skyline" />
-</p>
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mateuscandidoveras/mateuscandidoveras/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </p>
 
 ---
