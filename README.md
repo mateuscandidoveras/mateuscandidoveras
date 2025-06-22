@@ -56,12 +56,11 @@ Hi there! I'm **Mateus Candido Veras**, 22 years old, born and raised in **Perna
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRjY2U4aXYydmpub2hjb2g5aGZqZjh6amRjZ3hxa2t4N3phbTdwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHONQ79FdWZhAI0/giphy.gif" width="500" />
+  <img src="https://github.com/mrdoob/three.js/raw/dev/examples/textures/cube/pisa/nx.jpg" width="700" alt="Skyline" />
 </p>
 
-
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/mateuscandidoveras/mateuscandidoveras/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </p>
