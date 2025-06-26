@@ -57,8 +57,7 @@ Hi there! I'm **Mateus Candido Veras**, 22 years old, born and raised in **Perna
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mateuscandidoveras&show_icons=true&theme=radical&hide_border=true" alt="Mateus GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscandidoveras&theme=radical&hide_border=true" alt="Mateus GitHub Streak" />
-</p>
+
 
 ---
 
